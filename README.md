@@ -49,6 +49,6 @@ Exécution avec la commande java:
 - Exécuter la commande suivante : java Main
 
 # Propriété du Jeu 
-Les sprites, l'histoire et le code ont été entièrement réalisés par moi [MaxiyaG](https://github.com/MaxiyaG) avec les ressources à ma disposition.
+Les sprites, l'histoire et le code ont été entièrement réalisés par moi [MaxiyaG](https://github.com/MaxiyaG) avec les ressources/outils à ma disposition.
 
 Je vous accorde l'autorisation de réutiliser les éléments de mon projet, à condition que vous me citiez et fassiez référence à moi dans votre documentation ou votre fichier README.  
