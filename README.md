@@ -1,6 +1,6 @@
 
 # Titre du Jeu 
-Ttre : The shadow in search of light
+Titre : The shadow in search of light
 
 Développeur : MaxiyaG
 # Introcution
