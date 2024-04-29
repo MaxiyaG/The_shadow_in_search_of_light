@@ -23,12 +23,10 @@ public class Main {
             window.setResizable(false);
             window.setTitle("The shadow in search of light");
 
-            // Create a panel for the game
             GamePanel gamePanel = new GamePanel();
             window.add(gamePanel);
             window.pack();
 
-            // Center the window on the screen
             window.setLocationRelativeTo(null);
 
             window.setVisible(true);
