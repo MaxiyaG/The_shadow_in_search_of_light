@@ -48,6 +48,9 @@ Exécution avec la commande java:
 
 - Exécuter la commande suivante : java Main
 
+- ## Licence
+Ce projet est sous licence MIT.
+
 # Propriété du Jeu 
 Les sprites, l'histoire et le code ont été entièrement réalisés par moi [MaxiyaG](https://github.com/MaxiyaG) avec les ressources/outils à ma disposition.
 
