@@ -48,7 +48,7 @@ Exécution avec la commande java:
 
 - Exécuter la commande suivante : java Main
 
-- ## Licence
+## Licence
 Ce projet est sous licence MIT.
 
 # Propriété du Jeu 
